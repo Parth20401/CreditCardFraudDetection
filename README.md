@@ -1,0 +1,1 @@
+This is a Machine learning model created using Logistic Regression algorithm to find if a credit card transaction is a fraud or not . This model gives an accuracy of over 90% due to the careful selection of algorithm as well as different techniques which helps in finding out small things in the dataset that helps to increase the accuracy of the model even more
